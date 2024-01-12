@@ -1,1 +1,1 @@
-# Serverless-Application-in-AWS
+# Serverless Application in AWS
